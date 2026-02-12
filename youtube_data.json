@@ -1,5 +1,12 @@
 [
     {
+        "title": "अपरिवर्तनीय पासवर्ड",
+        "url": "https://www.youtube.com/watch?v=1X3EFKgOGCo",
+        "upload_date": "Feb 12 2026: Thursday",
+        "duration_seconds": 529,
+        "description": "Explore the terrifying evolution of identity verification, tracing the Identity Trap from the chemical passwords of ant colonies and the parasitic Atemeles beetle to the modern Global Shibboleth of biometric surveillance. This video analyzes how historical mechanisms of control—like the branding of slaves and the Nazi Hollerith machines—have morphed into digital enclosures like China’s Social Credit System, India’s DigiYatra, and Worldcoin’s Orb. We uncover the critical vulnerabilities of relying on immutable biological markers, including Silicon Thumb scams that drain bank accounts, deepfake injection attacks that bypass liveness detection, and the existential threat of Template Inversion where AI reconstructs your face from secure databases. Finally, we discuss whether cryptographic solutions like Zero-Knowledge Proofs (ZKPs) can offer an escape from a future where your body becomes a password you can never change.   इस वीडियो में हम पहचान के जाल (Identity Trap) की अवधारणा का विश्लेषण करेंगे, जो चींटियों की कॉलोनियों में रासायनिक शिबोलेथ से लेकर आज के आधार (Aadhaar), डिजी यात्रा (DigiYatra) और वर्ल्डकॉइन (Worldcoin) जैसे बायोमेट्रिक सिस्टम तक फैला हुआ है। हम जानेंगे कि कैसे Atemeles बीटल जैसे प्राकृतिक परजीवी और सिलिकॉन थंब (Silicon Thumb) जैसे आधुनिक स्कैमर्स सुरक्षा तंत्र को भेदते हैं, और क्यों आपका चेहरा या फिंगरप्रिंट एक ऐसा पासवर्ड है जिसे आप कभी बदल नहीं सकते। साथ ही, हम चीन के सोशल क्रेडिट सिस्टम और तकनीकी खतरों जैसे 'टेम्पलेट इन्वर्जन' (Template Inversion) पर चर्चा करेंगे और समझेंगे कि कैसे 'जीरो-नॉलेज प्रूफ' (Zero-Knowledge Proofs) हमें इस डिजिटल निगरानी और डेटा चोरी से बचा सकते हैं।  Channel details and transcript: https://github.com/abhishek-honey/github_coding_matrix"
+    },
+    {
         "title": "CBDCs  प्रोग्रामेबल पैसा और नियंत्रण",
         "url": "https://www.youtube.com/watch?v=u3WlmMFOkRo",
         "upload_date": "Feb 11 2026: Wednesday",
