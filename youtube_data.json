@@ -1,4 +1,10 @@
-[    
+[   {
+        "title": "वास्तविकता की वास्तुकला",
+        "url": "https://www.youtube.com/watch?v=1_YAZmGLMLA",
+        "upload_date": "Feb 22 2026: Sunday",
+        "duration_seconds": 655,
+        "description": "Dive into the fascinating intersection of theoretical physics, cloud-native software engineering, and human behavior in this comprehensive breakdown of complex systems! We explore the fundamental principles of Chaos Theory and the Butterfly Effect, revealing how microscopic changes compound into unpredictable macroscopic chaos. Discover how modern tech giants like Netflix use Chaos Engineering to intentionally inject failure and build resilient, auto-scaling microservices shielded by Control Theory, rate limiters, and PID controllers. Finally, we unpack the mathematics of Game Theory, applying the Iterated Prisoner's Dilemma and the Tit-for-Tat algorithm to decode office politics, salary negotiations, and the permanent statefulness of human trust. Join us to understand how to navigate, engineer, and control the inherent unpredictability of the modern world!  भौतिकी, क्लाउड-नेटिव सॉफ्टवेयर इंजीनियरिंग और मानवीय व्यवहार के अद्भुत संगम को इस वीडियो में गहराई से समझें! हम कैओस थ्योरी (Chaos Theory) और बटरफ्लाई इफ़ेक्ट (Butterfly Effect) के मूल सिद्धांतों का पता लगाते हैं, और देखते हैं कि कैसे सूक्ष्म बदलाव अप्रत्याशित और विशाल अराजकता (chaos) में बदल जाते हैं। जानिए कैसे नेटफ्लिक्स (Netflix) जैसी दिग्गज टेक कंपनियां सिस्टम को मजबूत बनाने के लिए जानबूझकर कैओस इंजीनियरिंग (Chaos Engineering) का उपयोग करती हैं और कंट्रोल थ्योरी, रेट लिमिटर्स व पीआईडी (PID) कंट्रोलर की मदद से रेजिलिएंट माइक्रोसर्विसेज बनाती हैं। अंत में, हम गेम थ्योरी (Game Theory), इटेरेटेड प्रिज़नर्स डिलेमा और टिट-फॉर-टैट (Tit-for-Tat) एल्गोरिदम के माध्यम से ऑफिस पॉलिटिक्स, सैलरी नेगोशिएशन और इंसानी भरोसे के गणित को डिकोड करते हैं। आधुनिक दुनिया की जटिल प्रणालियों (complex systems) की अराजकता को समझने और नियंत्रित करने के इस सफर में हमारे साथ जुड़ें!   Channel details and transcript: https://github.com/abhishek-honey/github_coding_matrix"
+    },
     {
         "title": "द गॉड मशीन",
         "url": "https://www.youtube.com/watch?v=nASUllZ8smU",
