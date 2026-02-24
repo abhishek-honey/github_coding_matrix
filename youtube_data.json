@@ -1,4 +1,11 @@
-[   
+[       
+    {
+        "title": "पहचान, अवस्था, और अस्तित्व",
+        "url": "https://www.youtube.com/watch?v=zWYCgywK2G8",
+        "upload_date": "Feb 24 2026: Tuesday",
+        "duration_seconds": 715,
+        "description": "Explore the profound intersection of quantum physics, computer science, neuroscience, and ancient philosophy to uncover the true architecture of existence. This video dives deep into why the human self is merely an emergent simulation—dismantled by rapid cellular turnover and quantum indistinguishability—and explains how human suffering is essentially a mathematical systems error caused by clinging to transient states. By contrasting amnesic CRUD databases with the immutable, append-only logs of Event Sourcing, we reveal how to gracefully navigate life's relentless thermodynamic transitions. Learn how adopting the Observer Pattern of a decoupled Kafka consumer perfectly mirrors the ancient wisdom of Kabir Das's Chadariya and the Mandukya Upanishad's Turiya, teaching us to master existence by letting go of rigid identities and flowing seamlessly with the immutable logs of time.  क्वांटम भौतिकी, कंप्यूटर विज्ञान, तंत्रिका विज्ञान और प्राचीन दर्शन के गहरे संगम का अन्वेषण करें और अस्तित्व की वास्तविक वास्तुकला को उजागर करें। यह वीडियो गहराई से बताता है कि मानव स्वयं या पहचान केवल एक उभरता हुआ सिमुलेशन क्यों है—जिसे तेजी से सेलुलर टर्नओवर और क्वांटम यांत्रिकी ने खारिज कर दिया है—और कैसे मानव दुख अनिवार्य रूप से क्षणभंगुर अवस्थाओं से चिपके रहने के कारण होने वाली एक गणितीय प्रणाली त्रुटि है। भूलने वाले CRUD डेटाबेस की तुलना इवेंट सोर्सिंग के अपरिवर्तनीय लॉग से करते हुए, हम यह उजागर करते हैं कि जीवन के निरंतर थर्मोडायनामिक बदलावों को कैसे पार किया जाए। जानें कि एक डिकपल्ड काफ्का कंज्यूमर (Kafka consumer) के ऑब्जर्वर पैटर्न को अपनाना कैसे कबीर दास की 'चदरिया' और मांडूक्य उपनिषद के 'तुरीय' के प्राचीन ज्ञान को पूरी तरह से दर्शाता है, जो हमें अपनी कठोर पहचान को छोड़ने और समय के अपरिवर्तनीय प्रवाह के साथ सहजता से बहने की कला सिखाता है।  Channel details and transcript: https://github.com/abhishek-honey/github_coding_matrix"
+    },
     {
         "title": "प्रायिकता का मैट्रिक्स",
         "url": "https://www.youtube.com/watch?v=XBMt-Q9quEM",
