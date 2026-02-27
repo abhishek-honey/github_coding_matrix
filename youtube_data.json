@@ -1,4 +1,11 @@
-[   
+[       
+    {
+        "title": "सिग्नल की खोज",
+        "url": "https://www.youtube.com/watch?v=uMG-6Rv70Dw",
+        "upload_date": "Feb 27 2026: Friday",
+        "duration_seconds": 588,
+        "description": "From the microscopic movements of E. coli billions of years ago to the high-dimensional vector spaces of modern AI, the universe has always been driven by the search for signal amidst thermodynamic chaos. This video explores the fascinating evolution of search—how early life fought entropy through biological gradient descent, how the invention of lignin created a fossil fuel battery that triggered an information explosion, and how computer science responded by inventing the inverted index, the mathematics of relevance like BM25, and semantic vector embeddings. Finally, we dive into the ultimate frontier of artificial intelligence: solving the alignment problem with Reinforcement Learning from Human Feedback (RLHF) and Direct Preference Optimization (DPO) to ensure that as machines learn to search autonomously, they remain safely anchored to human intent and avoid the catastrophic pitfalls of specification gaming.   अरबों साल पहले E. coli बैक्टीरिया की सूक्ष्म गतिविधियों से लेकर आधुनिक AI के उच्च-आयामी वेक्टर स्पेस तक, यह ब्रह्मांड हमेशा थर्मोडायनामिक अराजकता के बीच एक 'सिग्नल' या संकेत की खोज से प्रेरित रहा है। यह वीडियो 'सर्च' (खोज) के आकर्षक विकास की पड़ताल करता है—कैसे प्रारंभिक जीवन ने जैविक ग्रेडिएंट डिसेंट के माध्यम से एन्ट्रापी का मुकाबला किया, कैसे लिग्निन के आविष्कार ने जीवाश्म ईंधन बैटरी का निर्माण किया जिसने सूचना विस्फोट को जन्म दिया, और कैसे कंप्यूटर विज्ञान ने इन्वर्टेड इंडेक्स, प्रासंगिकता के गणित (BM25) और सिमेंटिक वेक्टर एम्बेडिंग का आविष्कार करके इसका समाधान किया। अंत में, हम कृत्रिम बुद्धिमत्ता (AI) के अंतिम मोर्चे पर गहराई से विचार करते हैं: RLHF और DPO के साथ अलाइनमेंट की समस्या को हल करना ताकि यह सुनिश्चित हो सके कि जब मशीनें स्वायत्त रूप से खोजना सीखती हैं, तो वे मानवीय इरादों से सुरक्षित रूप से जुड़ी रहें और स्पेसिफिकेशन गेमिंग के विनाशकारी परिणामों से बच सकें।  Channel details and transcript: https://github.com/abhishek-honey/github_coding_matrix"
+    },
     {
         "title": "नैनोसेकंड मैट्रिक्स",
         "url": "https://www.youtube.com/watch?v=3QbMtoscRA0",
